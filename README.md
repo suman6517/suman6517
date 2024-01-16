@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
+[![MasterHead](https://t4.ftcdn.net/jpg/02/78/37/47/360_F_278374738_ypRn0utOVnebuhmpSrDiwkzFsdqEm0aa.jpg)](https://www.linkedin.com/in/suman-baral-5s5s5s/)
 <h1 align="center">Hi 👋, I'm Suman Baral</h1>
 <h3 align="center">A passionate Android developer and Full Stack Java Developer from India</h3>
 <img align="right" alt="coding" width= "400"src= "https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
